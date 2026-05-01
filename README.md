@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<h1 align="center">Hi 👋, I'm Januka h1>
+<h1 align="center">Hi 👋, I'm Januka </h1>
 <h3 align="center">💻 Full Stack Developer | 📊 Data Analytics & 🤖 ML Enthusiast | 🚀 Building Real Systems</h3>
 
 <p align="center">
