@@ -82,16 +82,6 @@
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,vscode,git" />
 </p>
 
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sathurjanv23&show_icons=true&theme=radical&border_radius=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathurjanv23&layout=compact&theme=radical&border_radius=10" height="180"/>
-</p>
-
----
 
 ## 💼 Featured Projects
 
@@ -103,57 +93,7 @@
 ✔ Change Requests + PRD + Kanban Board
 ✔ MongoDB + Spring Boot + Next.js
 
----
 
-### 🏏 IPL Cricket Analytics Dashboard
-
-✨ Data Analytics + ML-ready system
-✔ Team performance & win analysis (real IPL data)
-✔ Player statistics visualization
-✔ Interactive dashboard (Streamlit + Plotly)
-✔ Large dataset handling & optimization
-✔ Extendable for ML-based predictions
-
----
-
-### 🏫 School Management System
-
-✨ Complete academic platform
-✔ Admin / Teacher / Student dashboards
-✔ Attendance + Marks + Announcements
-✔ Secure authentication system
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathurjanv23&theme=github-compact"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/vijithakumarasena-sathurjan">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:sathu20030303@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
-</p>
-
----
-
-## ✨ Fun Zone
-
-💡 Love building real-world systems
-🎯 Focused on becoming a top full-stack + ML engineer
-🔥 Always improving UI, backend & analytics performance
-
----
 
 ## 🧠 Quote
 
