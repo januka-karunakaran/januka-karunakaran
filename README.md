@@ -54,8 +54,6 @@
 
 🎓 &nbsp;**IT Undergraduate** at **University of Moratuwa** *(2024 – Present)*
 
-📊 &nbsp;Current CGPA: **3.64 / 4.00**
-
 🌍 &nbsp;Based in **Sri Lanka**
 
 💡 &nbsp;Passionate about building practical web apps that solve real-world problems
@@ -70,19 +68,6 @@
 
 ✉️ &nbsp;Reach me at **janukaruna2003@gmail.com**
 
-<br/>
-
-```yaml
-name       : Januka Karunakaran
-university : University of Moratuwa
-degree     : BSc (Hons) in Information Technology
-cgpa       : 3.64 / 4.00
-location   : Sri Lanka 🇱🇰
-focus      : Full Stack Dev | ML | Backend Engineering
-open_to    : Software Engineering Internships 🚀
-```
-
-<br clear="right"/>
 
 ---
 
