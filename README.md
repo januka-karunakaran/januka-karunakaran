@@ -40,8 +40,8 @@ I enjoy turning ideas into working products — from designing interfaces to bui
 ### ⚡ What I Build
 
 * 🏢 **CRMS — Change Request Management System**
-* 🏥 **Hospital Management System**
-* 🧠 **SkillPath AI — Data Analytics & ML**
+* 🏥 **PulseCare**
+* 🧠 **LifeFlow— Data Analytics & ML**
 * 🌐 Modern Full-Stack Web Applications
 * 📊 Data Analytics & Visualization Systems
 
