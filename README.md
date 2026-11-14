@@ -174,7 +174,7 @@
 
 <td width="50%" valign="top">
 
-### 🏥 PulseCare — Hospital Management System
+### 🏥 PulseCare 
 > A comprehensive digital platform designed to streamline hospital workflows, patient management, and healthcare operations.
 
 **🚧 Status: Currently Developing**
