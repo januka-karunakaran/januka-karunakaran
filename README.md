@@ -31,11 +31,16 @@
 
 <br/><br/>
 
-<!-- SNAKE ANIMATION CONTRIBUTION GRAPH -->
+<!-- ANIMATED CONTRIBUTION GRAPH — LIVE -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=januka-karunakaran&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF20&hide_border=true&custom_title=🐍%20Januka's%20Contribution%20Activity" />
+
+<br/>
+
+<!-- SNAKE ANIMATION (auto-generates after Actions run) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/januka-karunakaran/januka-karunakaran/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/januka-karunakaran/januka-karunakaran/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/januka-karunakaran/januka-karunakaran/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/januka-karunakaran/januka-karunakaran/output/github-contribution-grid-snake-dark.svg" onerror="this.style.display='none'" />
 </picture>
 
 </div>
